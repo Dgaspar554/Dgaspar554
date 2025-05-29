@@ -39,7 +39,7 @@
 
 ### 🌐 Conectemos
 
-- Portafolio: [dgaspar554.github.io/portafolio](dgaspar554.github.io/portafolio)
+- Portafolio: [dgaspar554.github.io/portafolio](https://dgaspar554.github.io/portafolio)
 - LinkedIn: [linkedin.com/in/dgaspar554](https://www.linkedin.com/in/dgaspar554)
 
 ---
